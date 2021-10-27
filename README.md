@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aaron-Arenal
-- 👀 I’m interested in education, science, technology, music and geek things.
+- 👀 I’m interested in education, science, technology, philosophy, rock music and geek things.
 - 🌱 I’m currently learning web development with python and/or javascript
 - Just programming for fun
 
