@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aaron-Arenal
 - 👀 I’m interested in education, science, technology, philosophy, rock music and geek things.
-- 🌱 I’m currently learning web development with python and/or javascript
+- 🌱 I’m currently learning Web development with Vue and Laravel
 - Just programming for fun
 
 <!---
